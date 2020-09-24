@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="enter_your_name">Enter Your name</string>
+    <string name="basic_android_application">Basic android Application</string>
+    <string name="enter_your_id">Enter your id</string>
+    <string name="submit">Submit</string>
+    <string name="email_id">Email Id</string>
+    <string name="example_email">johnlee235@xyz.com</string>
+    <string name="hello_world">Hello World</string>
 </resources>
